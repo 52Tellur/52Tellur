@@ -2,4 +2,4 @@
 
 ウェブサイトはこれ。↓
 
-https://52tellur.github.io/
+https://52tellur.blogspot.com/
