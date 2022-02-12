@@ -1,5 +1,6 @@
 ### 52Tellur/テルル
+I am 52Tellur.
 
-ウェブサイトはこれ。↓
+My website ↓
 
-https://52tellur.blogspot.com/
+https://52tellur.github.io/
