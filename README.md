@@ -3,4 +3,4 @@ I am 52Tellur. I like Scratch and UTAU.
 
 My website ↓
 
-[52tellur.com](https://www.52tellur.com)
+[www.52tellur.com](https://www.52tellur.com)
