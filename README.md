@@ -1,8 +1,10 @@
 ### 52Tellur/テルル
 
-I like Scratch and UTAU.
+![帽子をかぶったおばけ](https://52tellur.com/assets/52tellur.jpg)
 
-HTML,css, JavaScript,Scratch…
+I like UTAU.
+
+HTML, css, JavaScript, Scratch…
 
 My website ↓
 
