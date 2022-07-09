@@ -1,8 +1,6 @@
-### 52Tellur/テルル
-
 HTML, css, JavaScript, Scratch…
 
-My website [52tellur.com](https://52tellur.com)
+My website: [52tellur.com](https://52tellur.com)
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=52Tellur&layout=compact&show_icons=true&theme=dark" />
