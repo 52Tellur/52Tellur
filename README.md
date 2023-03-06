@@ -1,5 +1,3 @@
-![みた](https://komarev.com/ghpvc/?username=52Tellur)
-
 HTML, css, JavaScript, Scratch…
 
 My website: [52tellur.com](https://52tellur.com)
